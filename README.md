@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="" width="100%" style="border-radius:10px"/> -->
+<img src="https://raw.githubusercontent.com/CaioFarias-jpg/CaioFarias-jpg/main/cover.png" width="100%" style="border-radius:10px"/>
 
 <br/>
 
