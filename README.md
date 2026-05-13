@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CaioFarias-jpg/CaioFarias-jpg/main/cover.png" width="100%" style="border-radius:10px"/>
+<img src="https://raw.githubusercontent.com/CaioFarias-jpg/CaioFarias-jpg/main/cover.png?raw=true" width="100%" />
 
 <br/>
 
@@ -15,12 +15,11 @@
 
 ### 🧑‍💻 Sobre Mim
 
-```text
-🎯  Foco        →  HTML, CSS & JavaScript
-📍  Local       →  Campo Grande, MS — Brasil
-📚  Estudando   →  JS ES6+, DOM, Flexbox, Grid
-💡  Filosofia   →  Aprender fazendo, um projeto de cada vez
-```
+- 🎯 Foco → HTML, CSS & JavaScript
+- 📍 Local → Campo Grande, MS — Brasil
+- 📚 Estudando → JS ES6+, DOM, Flexbox e Grid
+- 💡 Filosofia → Aprender fazendo, um projeto de cada vez
+- 🚀 Atualmente desenvolvendo projetos front-end e aprimorando lógica com JavaScript
 
 ---
 
@@ -43,8 +42,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioFarias-jpg&show_icons=true&hide_border=true&count_private=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFarias-jpg&layout=compact&hide_border=true&title_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioFarias-jpg&show_icons=true&hide_border=true&count_private=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioFarias-jpg&layout=compact&hide_border=true&title_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 
 </div>
 
@@ -55,10 +55,11 @@
 <div align="center">
 
 <a href="https://github.com/CaioFarias-jpg/Site_Restaurante">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 </a>
+
 <a href="https://github.com/CaioFarias-jpg/Aula_JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 </a>
 
 </div>
@@ -70,6 +71,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-2E0D14?style=for-the-badge&logo=github&logoColor=EFE1D5)](https://github.com/CaioFarias-jpg)
+
 [![Gmail](https://img.shields.io/badge/Gmail-2E0D14?style=for-the-badge&logo=gmail&logoColor=EFE1D5)](mailto:seuemail@gmail.com)
 
 </div>
