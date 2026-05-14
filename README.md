@@ -15,7 +15,6 @@
 
 ### 🧑‍💻 Sobre Mim
 
-- 🎯 Foco → HTML, CSS & JavaScript
 - 📍 Local → Campo Grande, MS — Brasil
 - 📚 Estudando → JS,CSS,HTML,SQL
 - 🚀 Atualmente desenvolvendo projeto da fábrica de software em Senac Hub Academy
