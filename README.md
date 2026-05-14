@@ -4,7 +4,7 @@
 
 <br/>
 
-# Caio Farias 🔥
+# Caio Farias
 
 [![GitHub followers](https://img.shields.io/github/followers/CaioFarias-jpg?style=flat-square&color=2E0D14&labelColor=EFE1D5&label=Seguidores)](https://github.com/CaioFarias-jpg)
 [![Profile Views](https://komarev.com/ghpvc/?username=CaioFarias-jpg&color=2E0D14&style=flat-square&label=Visitas)](https://github.com/CaioFarias-jpg)
@@ -17,9 +17,8 @@
 
 - 🎯 Foco → HTML, CSS & JavaScript
 - 📍 Local → Campo Grande, MS — Brasil
-- 📚 Estudando → JS ES6+, DOM, Flexbox e Grid
-- 💡 Filosofia → Aprender fazendo, um projeto de cada vez
-- 🚀 Atualmente desenvolvendo projetos front-end e aprimorando lógica com JavaScript
+- 📚 Estudando → JS,CSS,HTML,SQL
+- 🚀 Atualmente desenvolvendo projeto da fábrica de software em Senac Hub Academy
 
 ---
 
