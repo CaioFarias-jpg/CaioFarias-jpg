@@ -68,12 +68,19 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-2E0D14?style=for-the-badge&logo=github&logoColor=EFE1D5)](https://github.com/CaioFarias-jpg)
+<a href="https://github.com/CaioFarias-jpg">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-2E0D14?style=for-the-badge&logo=gmail&logoColor=EFE1D5)](mailto:seuemail@gmail.com)
+<a href="https://www.linkedin.com/in/caio-farias-459695293/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-724B39?style=for-the-badge&logo=linkedin&logoColor=F5E6D3"/>
+</a>
+
+<a href="caiovv1@outlook.com">
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-
 ---
 
 <div align="center">
