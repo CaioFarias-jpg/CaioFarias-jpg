@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ### 🧑‍💻 Sobre Mim
 
@@ -19,7 +19,7 @@
 - 📚 Estudando → JS,CSS,HTML,SQL
 - 🚀 Atualmente desenvolvendo projeto da fábrica de software em Senac Hub Academy
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@
 
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -46,7 +46,7 @@
 
 </div>
 
----
+
 
 ### ⭐ Top Repositórios
 
@@ -62,7 +62,7 @@
 
 </div>
 
----
+
 
 ### 📫 Contato
 
@@ -81,7 +81,6 @@
 </a>
 
 </div>
----
 
 <div align="center">
 <sub>⭐ Deixa uma estrela nos repositórios se curtiu algo por aqui!</sub>
