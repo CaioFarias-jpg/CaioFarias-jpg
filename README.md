@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" alt="coding-gif" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="coding-gif" width="350" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 # ⚔️ About Me
 
@@ -43,8 +43,9 @@ const caio = {
 🌱 Atualmente estudando desenvolvimento Front-End
 🎨 Focado em interfaces modernas e experiências visuais bonitas
 💻 Aprendendo JavaScript, PHP e Banco de Dados
-🚀 Evoluindo diariamente como desenvolvedor
-🎮 Gamer nas horas vagas
+
+<!--🚀 Evoluindo diariamente como desenvolvedor
+🎮 Gamer nas horas vagas -->
 
 <br>
 
@@ -56,11 +57,11 @@ const caio = {
   <img width="40px" src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/CaioFarias-jpg" target="_blank">
+<a href="https://www.linkedin.com/in/caio-farias-459695293/" target="_blank">
   <img width="40px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:contato@exemplo.com">
+<a href="malito:caiovv1@outlook.com">
   <img width="40px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -101,21 +102,15 @@ const caio = {
 <div align="center">
 
 <a href="https://github.com/CaioFarias-jpg/Site_Restaurante">
-  <img 
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 </a>
 
 <a href="https://github.com/CaioFarias-jpg/Aula_JS">
-  <img 
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 </a>
 
 <a href="https://github.com/CaioFarias-jpg/Estudo-PHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Estudo-PHP&show_owner=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Estudo-PHP&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
 </a>
 
 </div>
