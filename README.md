@@ -101,15 +101,21 @@ const caio = {
 <div align="center">
 
 <a href="https://github.com/CaioFarias-jpg/Site_Restaurante">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
+  <img 
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante"
+  />
 </a>
 
 <a href="https://github.com/CaioFarias-jpg/Aula_JS">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
+  <img 
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS"
+  />
 </a>
 
 <a href="https://github.com/CaioFarias-jpg/Estudo-PHP">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Estudo-PHP&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Estudo-PHP&show_owner=true"/>
 </a>
 
 </div>
