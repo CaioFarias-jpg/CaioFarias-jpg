@@ -1,87 +1,158 @@
+<!-- Header Wave -->
+
 <div align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/CaioFarias-jpg/CaioFarias-jpg/main/cover.png?raw=true" width="100%" /> -->
-
-<br/>
-
-# Caio Farias
-
-[![GitHub followers](https://img.shields.io/github/followers/CaioFarias-jpg?style=flat-square&color=2E0D14&labelColor=EFE1D5&label=Seguidores)](https://github.com/CaioFarias-jpg)
-[![Profile Views](https://komarev.com/ghpvc/?username=CaioFarias-jpg&color=2E0D14&style=flat-square&label=Visitas)](https://github.com/CaioFarias-jpg)
-
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,D9A066&height=120&section=header&text=Caio%20Farias&fontSize=35&fontColor=F5E6D3&animation=twinkling"
+  />
 </div>
 
-
-
-### 🧑‍💻 Sobre Mim
-
-- 📍 Local → Campo Grande, MS — Brasil
-- 📚 Estudando → JS,CSS,HTML,SQL,PHP
-- 🚀 Atualmente desenvolvendo projeto da fábrica de software em Senac Hub Academy
-
-
-
-### 🛠️ Tech Stack
+<br>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-2E0D14?style=for-the-badge&logo=html5&logoColor=EFE1D5)
-![CSS3](https://img.shields.io/badge/CSS3-2E0D14?style=for-the-badge&logo=css3&logoColor=EFE1D5)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E0D14?style=for-the-badge&logo=javascript&logoColor=EFE1D5)
-![Git](https://img.shields.io/badge/Git-2E0D14?style=for-the-badge&logo=git&logoColor=EFE1D5)
-![GitHub](https://img.shields.io/badge/GitHub-2E0D14?style=for-the-badge&logo=github&logoColor=EFE1D5)
-![VS Code](https://img.shields.io/badge/VS%20Code-2E0D14?style=for-the-badge&logo=visual-studio-code&logoColor=EFE1D5)
+  <a href="https://github.com/CaioFarias-jpg">
+    <img src="https://komarev.com/ghpvc/?username=CaioFarias-jpg&label=Profile%20Views&color=D9A066&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/CaioFarias-jpg?tab=followers">
+    <img src="https://img.shields.io/github/followers/CaioFarias-jpg?style=for-the-badge&label=Followers&color=0D1117&logo=github" />
+  </a>
+
+  <a href="https://github.com/CaioFarias-jpg?tab=repositories">
+    <img src="https://img.shields.io/github/stars/CaioFarias-jpg?style=for-the-badge&label=Stars&color=D9A066&logo=github" />
+  </a>
 
 </div>
 
+---
 
+<img align="right" alt="coding-gif" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-### 📊 GitHub Stats
+# ⚔️ About Me
+
+```js
+const caio = {
+  focus: ["Front-End", "UX/UI", "Responsive Design"],
+  studying: ["JavaScript", "PHP", "SQL"],
+  tools: ["VSCode", "Git", "GitHub", "Figma"],
+  hobbies: ["Gaming", "Design", "Technology"]
+}
+```
+
+🌱 Atualmente estudando desenvolvimento Front-End
+🎨 Focado em interfaces modernas e experiências visuais bonitas
+💻 Aprendendo JavaScript, PHP e Banco de Dados
+🚀 Evoluindo diariamente como desenvolvedor
+🎮 Gamer nas horas vagas
+
+<br>
+
+# 🌐 Redes
+
+<div align="left">
+
+<a href="https://github.com/CaioFarias-jpg" target="_blank">
+  <img width="40px" src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://github.com/CaioFarias-jpg" target="_blank">
+  <img width="40px" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:contato@exemplo.com">
+  <img width="40px" src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+<br>
+
+# 🛠️ Languages & Tools
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioFarias-jpg&show_icons=true&hide_border=true&count_private=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioFarias-jpg&layout=compact&hide_border=true&title_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,git,github,vscode,figma" /><br> <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
 
 </div>
 
+<br>
 
+# 📊 GitHub Stats
 
-### ⭐ Top Repositórios
+<div align="center">
+
+<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioFarias-jpg&theme=dark&hide_border=true&ring=D9A066&fire=D9A066&currStreakLabel=F5E6D3" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioFarias-jpg&show_icons=true&hide_border=true&count_private=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14&cache_seconds=1800" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioFarias-jpg&layout=compact&hide_border=true&title_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14&cache_seconds=1800" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/CaioFarias-jpg/Site_Restaurante">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Site_Restaurante&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
 </a>
 
 <a href="https://github.com/CaioFarias-jpg/Aula_JS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&hide_border=true&title_color=EFE1D5&icon_color=EFE1D5&text_color=EFE1D5&bg_color=2E0D14" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Aula_JS&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
+</a>
+
+<a href="https://github.com/CaioFarias-jpg/Estudo-PHP">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioFarias-jpg&repo=Estudo-PHP&theme=transparent&hide_border=true&title_color=F5E6D3&text_color=F5E6D3" />
 </a>
 
 </div>
 
-
-
-### 📫 Contato
+# 💻 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/CaioFarias-jpg">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://www.linkedin.com/in/caio-farias-459695293/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-724B39?style=for-the-badge&logo=linkedin&logoColor=F5E6D3"/>
-</a>
-
-<a href="caiovv1@outlook.com">
-  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
 </div>
 
+---
+
+# 🔥 Currently Learning
+
+* Responsive Design with `@media`
+* JavaScript Moderno
+* UX/UI Design
+* PHP & SQL
+* Estruturação de Projetos
+
+---
+
 <div align="center">
-<sub>⭐ Deixa uma estrela nos repositórios se curtiu algo por aqui!</sub>
+
+> “Every great developer was once a beginner.”
+
+</div>
+
+<br>
+
+<!-- Footer -->
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,D9A066&height=100&section=footer"
+    width="100%"
+  />
 </div>
