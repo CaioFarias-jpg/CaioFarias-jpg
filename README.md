@@ -34,14 +34,16 @@
 ```js
 const caio = {
   focus: ["Front-End", "UX/UI", "Responsive Design"],
-  studying: ["JavaScript", "PHP", "SQL"],
+  studying: ["JavaScript", "PHP", "SQL", "HTML", "CSS", "NodeJS"],
   tools: ["VSCode", "Git", "GitHub", "Figma"],
-  hobbies: ["Gaming", "Design", "Technology"]
+  hobbies: ["Gaming", "Technology"]
 }
 ```
 
 🌱 Atualmente estudando desenvolvimento Front-End e Back-End
+
 💻 Aprendendo JavaScript, PHP, SQL, NodeJS, HTMLS E CSS 
+
 🚀 Evoluindo diariamente como desenvolvedor
 
 <br>
