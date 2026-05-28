@@ -40,11 +40,11 @@ const caio = {
 }
 ```
 
-🌱 Atualmente estudando desenvolvimento Front-End e Back-End
+🌱 Atualmente estudando desenvolvimento Front-End e Back-End.
 
-💻 Aprendendo JavaScript, PHP, SQL, NodeJS, HTMLS E CSS 
+💻 Aprendendo JavaScript, PHP, SQL, NodeJS, HTMLS E CSS.
 
-🚀 Evoluindo diariamente como desenvolvedor
+🚀 Evoluindo diariamente como desenvolvedor.
 
 <br>
 
