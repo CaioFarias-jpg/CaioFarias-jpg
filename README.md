@@ -34,7 +34,7 @@
 ```js
 const caio = {
   focus: ["Front-End", "UX/UI", "Responsive Design"],
-  studying: ["JavaScript", "PHP", "SQL", "HTML", "CSS", "NodeJS"],
+  studying: ["JavaScript", "PHP", "SQL", "HTML", "CSS"],
   tools: ["VSCode", "Git", "GitHub", "Figma"],
   hobbies: ["Gaming", "Technology"]
 }
