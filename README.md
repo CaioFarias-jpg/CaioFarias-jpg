@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/CaioFarias-jpg">
+  <!-- <a href="https://github.com/CaioFarias-jpg">
     <img src="https://komarev.com/ghpvc/?username=CaioFarias-jpg&label=Profile%20Views&color=D9A066&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -21,7 +21,7 @@
 
   <a href="https://github.com/CaioFarias-jpg?tab=repositories">
     <img src="https://img.shields.io/github/stars/CaioFarias-jpg?style=for-the-badge&label=Stars&color=D9A066&logo=github" />
-  </a>
+  </a> -->
 
 </div>
 
