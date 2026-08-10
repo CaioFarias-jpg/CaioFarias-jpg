@@ -2,26 +2,7 @@
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📊 CaioFarias-jpg's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=CaioFarias-jpg&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-<td valign="top" width="50%">
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFarias-jpg&layout=compact&theme=dark&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+**💻 Tecnologias que uso:**
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
