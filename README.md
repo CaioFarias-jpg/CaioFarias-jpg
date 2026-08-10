@@ -2,6 +2,9 @@
 
 <br>
 
+<img width="500" height="260" alt="giphy_gif (768×384)" src="https://github.com/user-attachments/assets/d3484254-ffde-40e8-a874-79a5ea3221a8" align="center" />
+
+
 **💻 Tecnologias que uso:**
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -15,3 +18,5 @@
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caiofarias-jpg.github.io/Portifolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioFarias-jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-farias1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiovv1@outlook.com)
