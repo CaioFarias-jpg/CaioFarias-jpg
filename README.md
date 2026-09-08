@@ -2,7 +2,8 @@
 
 <br>
 
-<img width="500" height="260" alt="giphy_gif (768×384)" src="https://github.com/user-attachments/assets/d3484254-ffde-40e8-a874-79a5ea3221a8" align="center" />
+<!-- <img width="500" height="260" alt="giphy_gif (768×384)" src="https://github.com/user-attachments/assets/d3484254-ffde-40e8-a874-79a5ea3221a8" align="center" /> -->
+<img width="500" height="260" alt="download" src="https://github.com/user-attachments/assets/bf601621-2dbe-4822-a2cb-4779f19732d4" align="center" />
    
 <br>
 
