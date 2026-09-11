@@ -1,4 +1,4 @@
-### Olá! Eu sou o Caio 👋
+### Olá! Eu sou o Caio 
 
 <br>
 
